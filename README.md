@@ -2,7 +2,7 @@
 _________________
 ### 这里是 Hanako! &#x2003; ( *・ω・)✄╰ひ╯
 
-- 在校大学生 &#x2003;/ MtF &#x2003;/ 喜欢安静
+- 在校大学生&#x2002;/&#x2002;MtF&#x2002;/&#x2002;喜欢安静
 - 联系方式 <cianato@icloud.com> 或者 [![](https://img.shields.io/badge/Twitter-follow-1DA1F2.svg?logo=Twitter)](https://twitter.com/Shmily_Nya)
 
 
