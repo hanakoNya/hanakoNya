@@ -4,8 +4,6 @@ _________________
 
 ### 使用 平台 / 环境 / 语言
 
-[![](https://img.shields.io/badge/macOS-BigSur-000000?style=flat-square&logo=macos)](https://www.apple.com/macos/big-sur/)
-[![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-us/windows/)
 [![](https://img.shields.io/badge/Kali_Linux-2021.1-557C94?style=flat-square&logo=kali-linux)](https://kail.org/)
 [![](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Xcode-12-147EFB?style=flat-square&logo=Xcode)](https://developer.apple.com/xcode/)
